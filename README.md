@@ -303,10 +303,6 @@ Soft gating (multiplying by learned gates at runtime) carries overhead — every
 
 ---
 
-<p align="center">
-  <b>Tredence Studio — AI Agents Engineering Team &nbsp;|&nbsp; Internship Cohort 2025</b>
-</p>
-```
 
 ---
 
